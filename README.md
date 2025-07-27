@@ -25,14 +25,6 @@ Atualmente trabalho na **Santinvest CFI** como programador.
 
 ---
 
-## 🧠 Projetos em Destaque
-
-- 🔐 [Sistema de login com Laravel + Vue](https://github.com/julioamorimdev/tcc)
-- 🤖 [Classificador de imagens com PyTorch](https://github.com/julioamorimdev/pipocaflix)
-- 📊 [Dashboard financeiro para Santinvest](https://github.com/julioamorimdev/projetotensorflowjs)
-
----
-
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/julioamorimfmr)
