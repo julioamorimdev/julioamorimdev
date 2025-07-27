@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Júlio!
 
-Sou desenvolvedor full stack apaixonado por criar soluções inteligentes, com experiência em:
+Sou desenvolvedor full stack apaixonado por criar soluções com IA, com experiência em:
 
 - 🧠 Inteligência Artificial & Agentes de IA: PyTorch, TensorFlow, desenvolvimento e integração de agentes
 - 🌐 Web Dev: PHP, Laravel, Node.js, JavaScript
