@@ -36,5 +36,5 @@ Atualmente trabalho na **Santinvest CFI** como programador.
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/julioamorimfmr)
-- 🌐 [Portfólio](https://goutec.com.br)
+- 🌐 [Hosting](https://goutec.com.br)
 - ✉️ julio@grupojpc.com
