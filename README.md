@@ -20,16 +20,16 @@ Atualmente trabalho na **Santinvest CFI** como programador.
 
 ## 📊 GitHub Stats
 
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimbr&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioamorimbr&layout=compact&theme=github_dark)
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioamorimdev&layout=compact&theme=github_dark)
 
 ---
 
 ## 🧠 Projetos em Destaque
 
-- 🔐 [Sistema de login com Laravel + Vue](https://github.com/julioamorimbr/tcc)
-- 🤖 [Classificador de imagens com PyTorch](https://github.com/julioamorimbr/pipocaflix)
-- 📊 [Dashboard financeiro para Santinvest](https://github.com/julioamorimbr/projetotensorflowjs)
+- 🔐 [Sistema de login com Laravel + Vue](https://github.com/julioamorimdev/tcc)
+- 🤖 [Classificador de imagens com PyTorch](https://github.com/julioamorimdev/pipocaflix)
+- 📊 [Dashboard financeiro para Santinvest](https://github.com/julioamorimdev/projetotensorflowjs)
 
 ---
 
