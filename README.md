@@ -2,7 +2,7 @@
 
 Sou desenvolvedor full stack apaixonado por criar soluções inteligentes, com experiência em:
 
-- 🧠 Inteligência Artificial: PyTorch, TensorFlow
+- 🧠 Inteligência Artificial & Agentes de IA: PyTorch, TensorFlow, desenvolvimento e integração de agentes
 - 🌐 Web Dev: PHP, Laravel, Node.js, JavaScript
 - 🐘 Banco de dados: SQL
 - 🔌 APIs e automações
