@@ -1,14 +1,18 @@
-# 👋 Olá, eu sou o Júlio!
+👋 **Hi, I'm Júlio!**
 
-Sou desenvolvedor full stack apaixonado por criar soluções com IA, com experiência em:
+I'm a full stack developer passionate about creating solutions with AI, with experience in:
 
-- 🧠 Inteligência Artificial & Agentes de IA: PyTorch, TensorFlow, desenvolvimento e integração de agentes
-- 🌐 Web Dev: PHP, Laravel, Node.js, JavaScript
-- 🐘 Banco de dados: SQL
-- 🔌 APIs e automações
-- ☁️ Infraestrutura & Hosting – CEO da minha empresa de hospedagem
+    🧠 Artificial Intelligence & AI Agents: PyTorch, TensorFlow, agent development and integration
 
-Atualmente trabalho na **Santinvest CFI** como programador.
+    🌐 Web Development: PHP, Laravel, Node.js, JavaScript
+
+    🐘 Databases: SQL
+
+    🔌 APIs and automations
+
+    ☁️ Infrastructure & Hosting – CEO of my own hosting company
+
+I currently work at **Santinvest CFI** as a developer.
 
 ---
 
@@ -25,7 +29,7 @@ Atualmente trabalho na **Santinvest CFI** como programador.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 💼 [LinkedIn](https://linkedin.com/in/julioamorimfmr)
 - 🌐 [Hosting](https://goutec.com.br)
