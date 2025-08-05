@@ -20,7 +20,7 @@ Atualmente trabalho na **Santinvest CFI** como programador.
 
 ## 📊 GitHub Stats
 
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&cache_seconds=60)
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&cache_seconds=60&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioamorimdev&layout=compact&theme=github_dark)
 
 ---
