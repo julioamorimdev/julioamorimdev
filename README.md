@@ -6,7 +6,7 @@ I'm a full stack developer passionate about creating solutions with AI, with exp
 
     🌐 Web Development: PHP, Laravel, Node.js, JavaScript
 
-    🐘 Databases: SQL
+    🐘 Databases: MySQL, PostgreSQL SQL Server, MongoDB
 
     🔌 APIs and automations
 
