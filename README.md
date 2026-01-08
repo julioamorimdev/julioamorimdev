@@ -22,13 +22,6 @@ I currently work at **Santinvest CFI** as a developer.
 
 ---
 
-## 📊 GitHub Stats
-
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioamorimdev&cache_seconds=120&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioamorimdev&cache_seconds=120&theme=github_dark)
-
----
-
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://linkedin.com/in/julioamorimfmr)
