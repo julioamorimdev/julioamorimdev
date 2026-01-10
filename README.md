@@ -18,7 +18,7 @@ I currently work at **Santinvest CFI** as a developer.
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,dart,postman,python,redhat)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,dart,postman,python,redhat,react,expressjs)
 
 ---
 
