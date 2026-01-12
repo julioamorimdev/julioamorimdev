@@ -23,6 +23,4 @@ I'm a full stack developer passionate about creating solutions with AI, with exp
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/julioamorimfmr)
-- 🌐 [Hosting](https://goutec.com.br)
-- ✉️ julio@grupojpc.com
+- [LinkedIn](https://linkedin.com/in/julioamorimdev)
