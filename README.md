@@ -17,7 +17,7 @@ I'm a full stack developer passionate about creating solutions with AI, with exp
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,ts,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,dart,postman,python,redhat,expressjs,flutter,next)
+![My Skills](https://skillicons.dev/icons?i=gcp,azure,bitbucket,firebase,graphql,nextjs,php,laravel,js,pnpm,nodejs,ts,python,mysql,postgres,tensorflow,pytorch,linux,docker,git,tailwind,react,androidstudio,cloudflare,vue,gitlab,github,html,grafana,azure,latex,mongodb,npm,dart,postman,python,redhat,expressjs,flutter,next)
 
 ---
 
