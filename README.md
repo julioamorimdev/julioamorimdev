@@ -4,9 +4,9 @@ I'm a full stack developer passionate about creating solutions with AI, with exp
 
     🧠 Artificial Intelligence & AI Agents: PyTorch, TensorFlow, agent development and integration
 
-    🌐 Web Development: PHP, Laravel, Node.js, JavaScript
+    🌐 Web Development: JavaScript, TypeScript, Python, PHP
 
-    🐘 Databases: MySQL, PostgreSQL SQL Server, MongoDB
+    🐘 Databases: MySQL, PostgreSQL, SQL Server, MongoDB
 
     🔌 APIs and automations
 
